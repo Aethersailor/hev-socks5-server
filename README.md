@@ -93,4 +93,4 @@ docker run --rm --entrypoint cat aethersailor/hev-socks5-server:latest \
 
 ## 问题反馈
 
-镜像拉取、标签、架构和容器打包问题请在[本仓库 Issues](https://github.com/Aethersailor/hev-socks5-server-docker/issues)反馈。
+镜像拉取、标签、架构和容器打包问题请在[本仓库 Issues](https://github.com/Aethersailor/hev-socks5-server/issues)反馈。
